@@ -2,15 +2,15 @@
 # https://github.com/UCSB-AMPLab/telar
 
 # Site Settings
-title: Telar
-description: "Telar (Spanish for 'loom') is a static site generator built on Jekyll that weaves together IIIF images, text, and layered contextual information into interactive digital narrative exhibitions. <a href='https://github.com/UCSB-AMPLab/telar'>Telar</a> is a project of <a href='https://neogranadina.org'>Neogranadina</a> and the Archives, Memory, and Preservation Labs at <a href='https://ampl.clair.ucsb.edu/'>UC Santa Barbara</a> and <a href='https://liberalarts.utexas.edu/history/'>UT Austin</a>."
-baseurl: "/telar"
-url: "https://ampl.clair.ucsb.edu"
-author: ""
+title: Geocimarronaje
+description: "A Digital Project Reconstructing the Spatial Histories of Maroon Communities in the Early Modern Spanish Caribbean (1520-1804)"
+baseurl: "/geocimarronaje"
+url: "https://andreinasoto.com"
+author: "Andreina Soto and Clifton Sorrell"
 email: ""
-telar_theme: "paisajes" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: 
 logo: "" # Path to logo image (optional, max 80px tall, 200-300px wide recommended)
-telar_language: "en" # Options: "en" (English), "es" (Español)
+telar_language: "en",  "es"  # Options: "en" (English), "es" (Español)
 
 # Story Interface Settings
 story_interface:
